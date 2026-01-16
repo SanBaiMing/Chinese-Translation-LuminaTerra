@@ -1,0 +1,132 @@
+{
+//该翻译补丁中所有与物品有关的翻译都不生效。
+  "UIDictionary": {
+    //EOLS
+    "EOLS": "EOLS",
+    "Hornfel's Discovery": "霍恩费斯的发现",
+
+    //LivingPlanet
+    "Shimmering Heart": "闪耀之心",
+    "Heart of the Planet": "行星之心",
+    "Red Crystal": "红水晶",
+    "Blue Crystal": "蓝水晶",
+    "Green Crystal": "绿水晶",
+    "Purple Crystal": "紫水晶",
+    "Charged Item": "充能物品",
+    "Lantern": "灯笼",
+    "Open Lantern": "打开灯笼",
+    "Open Door": "打开门",
+    "Electromagnetic Waves": "电磁波",
+
+    //LTSun
+    "Enduring Flame": "永恒之火",
+
+    //TimberHearth
+    "Timber Hearth": "木炉星"
+  },
+
+  //"OtherDictionary": {
+    //"Red Crystal": "红水晶",
+    //"Blue Crystal": "蓝水晶",
+    //"Green Crystal": "绿水晶",
+    //"Purple Crystal": "紫水晶",
+    //"Charged Item": "充能物品",
+    //"Lantern": "灯笼",
+    //"Open Lantern": "打开灯笼",
+    //"Open Door": "打开门"
+  //},
+
+  "DialogueDictionary": {
+    //Ernesto.xml
+    "Ernesto": "厄内斯托",
+    "Yahaha, you found me! Oh, wait... wrong line...": "呀哈哈，你找到我啦！哦等等……串词了……",
+    "Behold: Ernesto the Magic Talking Anglerfish!": "看好了：会说话的魔法安康鱼厄内斯托！",
+    "Did you wanna ask me something? Make it quick, I'm not really supposed to be talking right now.": "你想问问我啥不？长话短说，我其实现在本不该说话的。",
+    "Huh. I guess I am. Do I have to change my identity now? I can probably-": "哈？好像还真是。那我现在得换个身份不？我或许能……",
+    "Whoops, I went over my word limit. It's been nice talking, Hatchling.": "糟糕，超字数了。和你聊天很开心，小家伙。",
+    "Uh...": "呃……",
+    "That's gonna be it for today. I'll see you later, Hatchling.": "今天就到这儿吧。回头见，小家伙。",
+    "Geswaldo? I haven't heard that name in years...": "格茨瓦尔多？这名字我好些年没听过了……",
+    "It all began 5 years ago. I was taking a midnight stroll with Geswaldo.": "一切要从五年前说起。那晚午夜，我和格茨瓦尔多在外散步。",
+    "The alleys were dark and shadowed. It was hard to see much of anything.": "小巷里漆黑一片，阴影重重。几乎啥都看不清。",
+    "I suddenly felt a strange presence. A sort of pressure, like the walls were closing in on us.": "我突然感觉到一股诡异的气息。一种压迫感，仿佛墙壁都在向我们挤压过来。",
+    "Geswaldo felt it too. The tight alleyways suddenly felt much more sinister.": "格茨瓦尔多也感觉到了。逼仄的小巷突然变得凶险万分。",
+    "We decided to turn back the way we came. It was clear we were somewhere we weren't supposed to be.": "我们决定往回走。很明显，我们闯入了不该来的地方。",
+    "As we retreated back through the brick corridors, the darkness seemed to become more and more oppressive.": "当我们沿着砖石走廊往回撤时，黑暗似乎变得越来越令人窒息。",
+    "Panic began to enter our minds. We rounded corner after corner, searching for some escape from this endless maze.": "恐慌开始攫住我们的心神。我们拐过一个又一个拐角，想从这无尽的迷宫里找到一条出路。",
+    "Geswaldo was having trouble keeping up, but I kept running. When I glanced behind me, he was suddenly gone.": "格茨瓦尔多渐渐跟不上了，但我只能继续跑。等我回头看时，她突然就消失了。",
+    "I do not know what became of Geswaldo that night. But I know that in my heart there is a hole that will never be filled again.": "我不知道那晚格茨瓦尔多遭遇了什么。但我心里有个缺口，永远都补不上了。",
+    "Wait... I feel something. A pressure.": "等等……我感觉到什么了。一股压迫感。",
+    "It is time.": "时候到了。",
+    "Time for me to leave this world. There are no words left for me to speak.": "是时候离开这个世界了。我已无话可说。",
+    "It has been nice knowing you, Hatchling. I hope to see you again in another world.": "能认识你很开心，小家伙。愿我们在另一个世界再会。",
+    "Farewell.": "别了。",
+    "I am sorry, Hatchling. My words have all but been exhausted.": "抱歉，小家伙。我已经快没话可以说了。",
+    "Farewell. I hope I will see you again in another world.": "别了。愿我们在另一个世界再会。",
+    "What? Oh, sorry. I got carried away there.": "啥？哦，抱歉，我有点上头了。",
+    "Anyways, I'll catch you later. I'm gonna go be silent for a while.": "总之，回头见。我得消停一会儿了。",
+    "If you can't talk aren't you just Ernesto the Magic Anglerfish?": "要是你不能说话，那你不就只是魔法安康鱼厄内斯托了吗？",
+    "Did you pay your taxes?": "你交税了没？",
+    "Where is Geswaldo?": "格茨瓦尔多在哪？",
+    "Aren't you not supposed to talk or something?": "你不是本不该说话的吗？",
+    "Go on.": "继续说。",
+    "This feels like breaking the rules.": "这感觉像是在违规啊。",
+    "What happened next?": "后来呢？",
+    "Alright, I think that's enough talking.": "行了，我觉得说得够多了。",
+    "What?!": "啥？！",
+    "Time for what?": "到啥时候了？",
+    "You're not leaving, are you?": "你不会要走了吧？",
+
+    //LaunchTowerSign.xml
+    "SIGN": "标牌",
+    "Hey, Hatchling! I made a weird discovery the other day that I thought you might be interested in.": "嘿，小家伙！前几天我发现了个怪事，觉得你可能会感兴趣。",
+    "When I was tuning my deep space radio, I picked up a strange signal from a nearby star system. It's unlike anything I've ever heard before from space!": "我调试深空无线电的时候，接收到了一个来自附近恒星系的诡异信号。这和我以前从太空里听到的任何信号都不一样！",
+    "Since your ship is equipped with that new \"warp drive\" technology now, I thought you might want to go check it out. I'm certainly curious about what's there.": "你的飞船现在配备了新的“曲速引擎”技术，所以我觉得你或许会想去查看一下。我反正很好奇那边有什么。",
+    "Whether you decide to go or not, I've sent the coordinates of the star system to your ship computer.": "不管你决定去不去，我都把那个恒星系的坐标传到你飞船的电脑里了。",
+    "Safe travels!": "一路平安！",
+    "- Hornfels": "——霍恩费斯"
+  },
+
+  "ShipLogDictionary": {
+    //LT_System
+    "Hornfel's Discovery": "霍恩费斯的发现",
+
+    //LTRumors.xml
+    "Strange House": "诡异小屋",
+    "Strange Planet": "诡异星球",
+    "This system only has one planet with a strange signal coming from it. The planet looks uninhabited, but maybe there's still something on it.": "这个恒星系里只有一颗星球发出诡异信号。这颗星球看起来荒无人烟，但或许上面还藏着些什么。",
+    "A lone house on the pole of the planet. There is a hole in the floor that leads to a dark cave.": "星球的极地有一座孤零零的小屋。地板上有个洞，通向一处漆黑的洞穴。",
+    "Crystal Heart": "晶心",
+    "Dark Tunnel": "黑暗隧道",
+    "I found a cave underneath a house that appears to lead further underground.": "我在一座小屋下方发现了一个洞穴，这洞穴似乎一直通向更深的地底。",
+    "A strange, white crystal in a large chamber at the center of the planet. It emits a signal on the Electromagnetic Waves frequency.": "星球中心的巨大石室里有一块诡异的白色水晶。它会以电磁波的频率发射信号。",
+    "Crystal Interface": "水晶接口",
+    "A pillar of crystal emerged from the ground after I entered the room. The Crystal Heart started transmitting some sort of data into the pillar.": "我进房间后，一根水晶柱从地面升起。晶心开始向这根柱子传输某种数据。",
+    "When I walked into the stream of data, it showed me a vision of what looked like the past and the future.": "当我走进数据流中时，眼前浮现出一幅幅幻象，像是过去与未来的景象。",
+    "Vision Realm": "幻界",
+    "I woke up in a void filled with stars after losing consciousness. The Crystal Heart, a strange diagram of shapes, and this system's sun were arranged on a floating platform.": "失去意识后，我在一片布满星辰的虚空中醒来。晶心、一幅诡异的几何图案，还有这个恒星系的太阳，都陈列在一个浮空平台上。",
+    "The stars started to disappear until the Sun was the only remaining star. Shortly afterwards the Sun also died, leaving me in complete darkness.": "星辰接连消失，最后只剩下这颗太阳。没过多久，太阳也熄灭了，只留我置身于彻底的黑暗之中。",
+    "I found the beginning of a bridge leading to a door in the distance. The bridge fades away into the darkness before reaching the other side.": "我发现一座桥的起点，桥的尽头通向远方的一扇门。但这座桥还没到对岸，就消散在黑暗里了。",
+    "Crystal Workshop": "水晶工坊",
+    "I saw a dark tunnel leading out of the central chamber marked by a cairn with a crystal.": "我看到一条黑暗隧道从中央石室延伸出去，入口处有一个堆石标，上面嵌着水晶。",
+    "An old building that looks like it was used for refining crystals. There is a green crystal and a blue crystal on a pallet in the corner.": "一座老旧的建筑，看起来是用来提炼水晶的。角落里的托盘上放着一块绿水晶和一块蓝水晶。",
+    "I found four colored symbols on the wall: a red group of three lines, a blue circle with three dots in it, a green square with a line through it, and a purple Y-shaped symbol.": "我在墙上发现了四个彩色符号：红色的三道横线、蓝色的圆圈（里面有三个点）、绿色的方形（中间有一条横线穿过），还有紫色的Y形符号。",
+    "I found a lantern next to some drawings. The drawings show a lit candle being blown out by the wind, then a lit lantern resisting the wind.": "我在一些图画旁发现了一盏提灯。图画里画着一支点燃的蜡烛被风吹灭，接着是一盏点亮的提灯抵挡住了风。",
+    "Strange Device": "诡异装置",
+    "I saw a dark tunnel leading out of the central chamber marked by a cairn with a circle of lines.": "我看到一条黑暗隧道从中央石室延伸出去，入口处有一个堆石标，上面刻着一圈线条。",
+    "A worn down building with a strange pedestal on the second floor. The pedestal has a small label showing a regular crystal beginning to glow.": "一座破败的建筑，二楼有个诡异的基座。基座上有个小标签，画着一块普通水晶开始发光的样子。",
+    "I found a drawing next to the pedestal that shows a glowing crystal communicating with the Crystal Heart.": "我在基座旁发现了一幅画，画里是一块发光的水晶正在和晶心产生共鸣。",
+    "When I placed an unlit crystal on the table, it began to glow and started emitting a signal on the Electromagnetic Waves frequency.": "我把一块未激活的水晶放在桌上后，它开始发光，并以电磁波的频率发射信号。",
+    "Records Building": "记录馆",
+    "I saw a dark tunnel leading out of the central chamber marked by a cairn with a book.": "我看到一条黑暗隧道从中央石室延伸出去，入口处有一个堆石标，上面刻着书本的图案。",
+    "An old building filled with writing tablets.": "一座老旧的建筑，里面摆满了刻字石板。",
+    "There is a locked door at the back of the building at the bottom of a staircase. A tablet at the top of the staircase shows a drawing of a light that is crossed out.": "建筑深处的楼梯底端有一扇锁着的门。楼梯顶端有一块石板，上面画着一盏灯，还打了个叉。",
+    "I found a diagram showing three glowing crystals in three different shapes. It also shows a checkmark next to a drawing of a glowing crystal and an X next to a drawing of a regular crystal.": "我发现了一张示意图，画着三颗不同形状的发光水晶。图里还在发光水晶的图案旁画了对勾，普通水晶的图案旁画了叉。",
+    "I found a strange diagram behind the locked door. It showed three symbols in three shapes: a series of lines in a pentagon, a circle with three dots in a hexagon, and a strange Y-shaped symbol in a septagon.": "我在锁着的门后发现了一幅诡异的示意图。图里有三个嵌在不同形状里的符号：五边形里的一组线条、六边形里的带三个点的圆圈，还有七边形里的诡异Y形符号。",
+    "Ritual Chamber": "仪式室",
+    "I saw a dark tunnel leading out of the central chamber marked by a cairn with three circles.": "我看到一条黑暗隧道从中央石室延伸出去，入口处有一个堆石标，上面刻着三个圆圈。",
+    "A relatively intact building with a large table at the center. The table has a circle in the center surrounded by 3 different shapes.": "一座保存相对完好的建筑，中央有一张大桌子。桌子正中有个圆圈，周围环绕着三个不同的形状。",
+    "I found a drawing on a wall next to the large table. It shows the layout of the table with 4 labeled areas: the large circle at the center, a pentagon, a hexagon, and a septagon.": "我在大桌子旁的墙上发现了一幅画。画里标注了桌子的布局，分四个区域：中央的大圆圈、一个五边形、一个六边形，还有一个七边形。",
+    "When I placed three specific crystals in a circle around an item, the item started emitting a signal on the same frequency as the crystals.": "我把三块特定的水晶围绕一件物品摆成一圈后，这件物品开始以和水晶相同的频率发射信号。"
+  }
+}
